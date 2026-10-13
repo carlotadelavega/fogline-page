@@ -1,30 +1,22 @@
-# Fogline – Privacy Policy / Política de privacidad
+# Meridia Games
 
-Official privacy policy for **Fogline**, a minimalist lighthouse logic puzzle for Android by **Meridia Games**.
+Landing page and legal documents for **Meridia Games**.
 
-Política de privacidad oficial de **Fogline**, un juego de lógica minimalista de faros para Android, de **Meridia Games**.
+## 🎮 Games / Juegos
 
-## 🌐 Read the policy / Leer la política
+- [**Fogline**](https://play.google.com/store/apps/details?id=com.meridia.fogline): A minimalist lighthouse logic puzzle for Android.
 
-- 🇪🇸 Español: https://carlotadelavega.github.io/fogline-privacy/
-- 🇬🇧 English: https://carlotadelavega.github.io/fogline-privacy/en.html
+## ⚖️ Legal / Legal
 
-## 📄 Summary / Resumen
+### [Privacy Policy / Política de privacidad](/privacy/index.html)
 
-| | |
-|---|---|
-| **EN** | Fogline has no accounts and no analytics. Your progress is stored only on your device. The only third party that processes data is Google AdMob (rewarded ads). |
-| **ES** | Fogline no tiene cuentas ni analítica. Tu progreso se guarda solo en tu dispositivo. El único tercero que trata datos es Google AdMob (anuncios recompensados). |
-
-## 📁 Contents / Contenido
-
-- `index.html` – Política de privacidad (español)
-- `en.html` – Privacy policy (English)
+- [🇪🇸 Español](/privacy/index.html)
+- [🇬🇧 English](/privacy/en.html)
 
 ## 📬 Contact / Contacto
 
-labsmeridia@gmail.com
+[labsmeridia@gmail.com](mailto:labsmeridia@gmail.com)
 
 ---
 
-This repository contains only the privacy policy of the app. / Este repositorio contiene únicamente la política de privacidad de la app.
+This repository hosts the official website and privacy policies for Meridia Games. / Este repositorio aloja el sitio web oficial y las políticas de privacidad de Meridia Games.
